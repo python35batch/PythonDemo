@@ -1,0 +1,3 @@
+str=input("Enter a no.")
+for i in str:
+print(i)
